@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/DeviaVir/zenbot)
+
 ![zenbot logo](assets/logo.png)
 
 > “To follow the path, look to the master, follow the master, walk with the master, see through the master, become the master.”
